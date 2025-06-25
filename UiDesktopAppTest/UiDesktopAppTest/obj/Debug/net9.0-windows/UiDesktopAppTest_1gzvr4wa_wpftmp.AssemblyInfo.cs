@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UiDesktopAppTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d80d80927151be89012eb5fa2aa86ad0e3f75ed6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8e2a71ea88fe54ecafa9a731b3fc88ab34949085")]
 [assembly: System.Reflection.AssemblyProductAttribute("UiDesktopAppTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UiDesktopAppTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

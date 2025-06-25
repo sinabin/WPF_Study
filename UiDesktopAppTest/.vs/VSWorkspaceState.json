@@ -2,9 +2,12 @@
   "ExpandedNodes": [
     "",
     "\\UiDesktopAppTest",
+    "\\UiDesktopAppTest\\ViewModels",
+    "\\UiDesktopAppTest\\ViewModels\\Pages",
+    "\\UiDesktopAppTest\\ViewModels\\Windows",
     "\\UiDesktopAppTest\\Views",
     "\\UiDesktopAppTest\\Views\\Pages"
   ],
-  "SelectedNode": "\\UiDesktopAppTest\\Views\\Pages\\DashboardPage.xaml.cs",
+  "SelectedNode": "\\UiDesktopAppTest.sln",
   "PreviewInSolutionExplorer": false
 }

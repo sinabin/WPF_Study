@@ -1,23 +1,7 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\sinab\\source\\repos\\UiDesktopAppTest\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sinab\\source\\repos\\UiDesktopAppTest\\UiDesktopAppTest\\Views\\Pages\\DashboardPage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UiDesktopAppTest\\Views\\Pages\\DashboardPage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sinab\\AppData\\Local\\Temp\\VSGeneratedDocuments\\f92bdeaa-f5fb-b249-bc25-94ee6ed58a92\\UiDesktopAppTest.ViewModels.Pages.DashboardViewModel.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sinab\\source\\repos\\UiDesktopAppTest\\UiDesktopAppTest\\Views\\Pages\\DataPage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UiDesktopAppTest\\Views\\Pages\\DataPage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sinab\\source\\repos\\UiDesktopAppTest\\UiDesktopAppTest\\ViewModels\\Pages\\DashboardViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UiDesktopAppTest\\ViewModels\\Pages\\DashboardViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "WorkspaceRootPath": "C:\\Users\\sinab\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\WPF_Study\\UiDesktopAppTest\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -30,60 +14,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            }
-          ]
-        },
-        {
-          "DockedWidth": 193,
-          "SelectedChildIndex": 1,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DataPage.xaml",
-              "DocumentMoniker": "C:\\Users\\sinab\\source\\repos\\UiDesktopAppTest\\UiDesktopAppTest\\Views\\Pages\\DataPage.xaml",
-              "RelativeDocumentMoniker": "UiDesktopAppTest\\Views\\Pages\\DataPage.xaml",
-              "ToolTip": "C:\\Users\\sinab\\source\\repos\\UiDesktopAppTest\\UiDesktopAppTest\\Views\\Pages\\DataPage.xaml",
-              "RelativeToolTip": "UiDesktopAppTest\\Views\\Pages\\DataPage.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-24T10:58:06.163Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DashboardPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\sinab\\source\\repos\\UiDesktopAppTest\\UiDesktopAppTest\\Views\\Pages\\DashboardPage.xaml.cs",
-              "RelativeDocumentMoniker": "UiDesktopAppTest\\Views\\Pages\\DashboardPage.xaml.cs",
-              "ToolTip": "C:\\Users\\sinab\\source\\repos\\UiDesktopAppTest\\UiDesktopAppTest\\Views\\Pages\\DashboardPage.xaml.cs",
-              "RelativeToolTip": "UiDesktopAppTest\\Views\\Pages\\DashboardPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T10:55:46.865Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DashboardViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\sinab\\source\\repos\\UiDesktopAppTest\\UiDesktopAppTest\\ViewModels\\Pages\\DashboardViewModel.cs",
-              "RelativeDocumentMoniker": "UiDesktopAppTest\\ViewModels\\Pages\\DashboardViewModel.cs",
-              "ToolTip": "C:\\Users\\sinab\\source\\repos\\UiDesktopAppTest\\UiDesktopAppTest\\ViewModels\\Pages\\DashboardViewModel.cs",
-              "RelativeToolTip": "UiDesktopAppTest\\ViewModels\\Pages\\DashboardViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T10:49:27.87Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UiDesktopAppTest.ViewModels.Pages.DashboardViewModel.g.cs",
-              "DocumentMoniker": "C:\\Users\\sinab\\AppData\\Local\\Temp\\VSGeneratedDocuments\\f92bdeaa-f5fb-b249-bc25-94ee6ed58a92\\UiDesktopAppTest.ViewModels.Pages.DashboardViewModel.g.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\VSGeneratedDocuments\\f92bdeaa-f5fb-b249-bc25-94ee6ed58a92\\UiDesktopAppTest.ViewModels.Pages.DashboardViewModel.g.cs",
-              "ToolTip": "UiDesktopAppTest.ViewModels.Pages.DashboardViewModel.g.cs [CommunityToolkit.Mvvm.SourceGenerators.ObservablePropertyGenerator\uC774(\uAC00) \uC0DD\uC131\uD568]",
-              "ViewState": "AgIAAEEAAAAAAAAAAAA7wF8AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "OverriddenToolTip": "UiDesktopAppTest.ViewModels.Pages.DashboardViewModel.g.cs [CommunityToolkit.Mvvm.SourceGenerators.ObservablePropertyGenerator\uC774(\uAC00) \uC0DD\uC131\uD568]",
-              "WhenOpened": "2025-06-24T10:35:00.677Z"
             }
           ]
         }
