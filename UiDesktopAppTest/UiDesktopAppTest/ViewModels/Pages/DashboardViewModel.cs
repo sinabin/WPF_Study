@@ -25,8 +25,14 @@
 
             // 그래서 이런식으로 변수를 할당하고 해당 변수를 Tracking하고 싶은 경우
             // 즉 DataBinding을 걸고 싶은 경우에는  ObservableProperty 라는 어노테이션? 비슷한 저걸 달아주면 된다.
+            
+        }
 
-
+        // Command로서 사용하고싶다면 이와 같이 RelayCommand라고 attribute를 붙여주면 된다.
+        [RelayCommand]
+        private void OnTextChanged()
+        {
+            
         }
     }
 }

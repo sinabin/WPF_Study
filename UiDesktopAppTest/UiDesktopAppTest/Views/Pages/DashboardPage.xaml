@@ -30,6 +30,12 @@
             Content="Click me!"
             Icon="Fluent24" />
         
+        <ui:Button
+            Grid.Column="2"
+            Command="{Binding ViewModel.TextChangedCommand, Mode=OneWay}"
+            Content="Click me!"
+            Icon="Fluent24" />
+        
         <!--아래 TextBlock 처럼 명명을 해주지 않은 요소들은 WPF 내부의 Visual Tree에는 존재하지만, 컴파일시 대응 하는 필드가 자동으로 생성되지 않는, 즉 코드비하인드 클래스의 필드로서 존재하는 것은 아니게 된다. -->
         <TextBlock
             Grid.Column="1"
