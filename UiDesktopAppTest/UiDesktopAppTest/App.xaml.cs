@@ -1,9 +1,9 @@
 ﻿using System.IO;
-using System.Reflection;
 using System.Windows.Threading;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using UiDesktopAppTest.Interfaces;
 using UiDesktopAppTest.Services;
 using UiDesktopAppTest.ViewModels.Pages;
 using UiDesktopAppTest.ViewModels.Windows;
@@ -28,7 +28,8 @@ namespace UiDesktopAppTest
             .CreateDefaultBuilder()
             .ConfigureAppConfiguration(c => { c.SetBasePath(Path.GetDirectoryName(AppContext.BaseDirectory)); })
             .ConfigureServices((context, services) =>
-            {
+            { // 각 service들을 설정해주는 곳이다.
+              // 따라서 본인이 별도로 만든 서비스가 있다면 꼭 App.xaml의 코드 비하인드에 등록해줘야한다.
                 services.AddNavigationViewPageProvider();
 
                 services.AddHostedService<ApplicationHostService>();
@@ -45,7 +46,10 @@ namespace UiDesktopAppTest
                 // Main window with navigation
                 services.AddSingleton<INavigationWindow, MainWindow>();
                 services.AddSingleton<MainWindowViewModel>();
-
+                
+                // 예시로 만들었던 IDateTimeService AddSingleton, AddScoped 등이 있는데 이건 그때 그때, 클래스의 생명주기에 따라 맞게 설정하면된다.
+                services.AddSingleton<IDateTime, DateTimeService>();
+                
                 services.AddSingleton<DashboardPage>();
                 services.AddSingleton<DashboardViewModel>();
                 services.AddSingleton<DataPage>();
